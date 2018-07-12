@@ -1,6 +1,9 @@
 # EpicyclicAnimator
 This repo is an implementation of reconstructing 2-D sequential point clouds using Fourier series. This is based off [this](https://mathematica.stackexchange.com/a/171756) answer on stackexchange. The original code has been done is mathematica, and this is a python 2.7 implementation.
 
+For example, the figure below illustrates a fourier series representation of ~~the Avengers snapped by Thanos~~ the avengers logo.
+![Snap](https://imgur.com/a/cvfgtui)
+
 The notebook [Epicycles.ipynb](Epicycles.ipynb) is self-explanatory, with comments at relevant places.
 
 For the interested user, play around with the value `m`-- no. of fourier components. If you have it more than the no. of points taken for the image, you can see some interesting effects!
