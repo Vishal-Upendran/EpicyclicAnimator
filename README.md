@@ -3,7 +3,7 @@ This repo is an implementation of reconstructing 2-D sequential point clouds usi
 
 For example, the figure below illustrates a fourier series representation of ~~the Avengers snapped by Thanos~~ the avengers logo.
 
-![](https://imgur.com/a/cvfgtui)
+![](http://imgur.com/a/cvfgtui.gif)
 
 The notebook [Epicycles.ipynb](Epicycles.ipynb) is self-explanatory, with comments at relevant places.
 
