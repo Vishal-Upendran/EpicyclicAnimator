@@ -2,7 +2,8 @@
 This repo is an implementation of reconstructing 2-D sequential point clouds using Fourier series. This is based off [this](https://mathematica.stackexchange.com/a/171756) answer on stackexchange. The original code has been done is mathematica, and this is a python 2.7 implementation.
 
 For example, the figure below illustrates a fourier series representation of ~~the Avengers snapped by Thanos~~ the avengers logo.
-![Snap](https://imgur.com/a/cvfgtui)
+
+![](https://imgur.com/a/cvfgtui)
 
 The notebook [Epicycles.ipynb](Epicycles.ipynb) is self-explanatory, with comments at relevant places.
 
